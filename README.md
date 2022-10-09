@@ -1,3 +1,11 @@
+# Ejercicio react intermedio sesiones 16-18
+
+Crear el sistema de enrutado de la aplicación en React:
+
+Permitir la navegación de Login a Registro y viceversa
+
+No podremos acceder a Tareas a no ser que nos hayamos logeado primero.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
